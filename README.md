@@ -1,1 +1,1 @@
-# dicrete-mathematics
+Practising with the entity framework core 
