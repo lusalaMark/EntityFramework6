@@ -1,1 +1,1 @@
-Practising with the entity framework core 
+Entity Framework core BEST Practices. 
