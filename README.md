@@ -1,1 +1,1 @@
-Entity Framework core BEST Practices. 
+Entity Framework 6 BEST Practices. 
