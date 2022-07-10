@@ -1,1 +1,1 @@
-Entity Framework 6 BEST Practices. 
+Entity Framework 6 
